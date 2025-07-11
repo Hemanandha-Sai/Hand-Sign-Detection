@@ -19,9 +19,11 @@ This project leverages MediaPipe's hand tracking technology to extract 21 hand k
 
 Clone the repository and install required packages:
 
-```bash
-git clone https://github.com/Hemanandha-Sai/Hand-Sign-Detection.git
-cd Hand-Sign-Detection
+opencv-python
+mediapipe
+numpy
+pandas
+
 
 ## 🙋‍♂️ Author
 
